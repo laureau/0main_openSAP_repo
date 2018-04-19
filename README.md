@@ -1,2 +1,2 @@
 # 0main_openSAP_repo
- second test for ll
+Main repository for [openSAP](http://opensap.com) Git Web IDE Demos
